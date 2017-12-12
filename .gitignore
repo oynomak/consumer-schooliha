@@ -1,3 +1,27 @@
+/target/
+# Eclipse
+.classpath
+.project
+.settings/*
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/*
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+/target
+
 # Compiled class file
 *.class
 
