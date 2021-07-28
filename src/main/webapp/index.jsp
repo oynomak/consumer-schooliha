@@ -84,7 +84,7 @@
 			<form ng-submit="submitUssdRequest()">
 				<table>
 					<tr>
-						<td><h2>USSD Simulator JSP</h2></td>
+						<td><h2>USSD Simulator SCHOOLiha</h2></td>
 					</tr>
 					<tr>
 						<td>
